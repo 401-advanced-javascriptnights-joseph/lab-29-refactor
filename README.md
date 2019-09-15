@@ -5,7 +5,7 @@
 ### Author: Joseph Hangarter
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-29-refactor/pull/3)
 * [travis](http://xyz.com)
 
 ### Modules
